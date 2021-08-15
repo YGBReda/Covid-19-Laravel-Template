@@ -1,0 +1,424 @@
+imageSeries_us.data = [{
+  "latitude": 40.712775,
+  "longitude": -74.005973,
+  "title": "New York",
+  "value":parseFloat(confirmed_state[36]),
+  "color": "#0984e3",
+},
+
+{
+  "latitude": 44.500000,
+  "longitude": -89.500000,
+  "title": "Wisconsin",
+  "value":parseFloat(confirmed_state[57]),
+  "color": "#0984e3",
+},
+
+{
+  "latitude": 39.000000,
+  "longitude": -80.500000,
+  "title": "West Virginia",
+  "value":parseFloat(confirmed_state[56]),
+  "color": "#0984e3",
+},
+
+{
+  "latitude": 44.000000,
+  "longitude": -72.699997,
+  "title": "Vermont",
+  "value":parseFloat(confirmed_state[52]),
+  "color": "#0984e3",
+},
+
+{
+  "latitude":31.000000,
+  "longitude":-100.000000 ,
+  "title": "Texas",
+  "value":parseFloat(confirmed_state[50]),
+  "color": "#0984e3",
+},
+
+{
+  "latitude":44.500000,
+  "longitude":-100.000000 ,
+  "title": "South Dakota",
+  "value":parseFloat(confirmed_state[48]),
+  "color": "#0984e3",
+},
+
+{
+  "latitude":41.700001 ,
+  "longitude": -71.500000,
+  "title": "Rhode Island",
+  "value":parseFloat(confirmed_state[46]),
+  "color": "#0984e3",
+},
+
+{
+  "latitude":44.000000 ,
+  "longitude":-120.500000 ,
+  "title": "Oregon",
+  "value":parseFloat(confirmed_state[42]),
+  "color": "#0984e3",
+},
+
+{
+  "latitude": 44.000000,
+  "longitude":-71.500000 ,
+  "title": "New Hampshire",
+  "value":parseFloat(confirmed_state[33]),
+  "color": "#0984e3",
+},
+
+{
+  "latitude":41.500000 ,
+  "longitude": -100.000000,
+  "title": "Nebraska",
+  "value":parseFloat(confirmed_state[31]),
+  "color": "#0984e3",
+},
+
+{
+  "latitude":38.500000,
+  "longitude": -98.000000,
+  "title": "Kansas",
+  "value":parseFloat(confirmed_state[19]),
+  "color": "#0984e3",
+},
+
+{
+  "latitude":33.000000 ,
+  "longitude": -90.000000,
+  "title": "Mississippi",
+  "value":parseFloat(confirmed_state[28]),
+  "color": "#0984e3",
+},
+
+{
+  "latitude":40.000000 ,
+  "longitude": -89.000000,
+  "title": "Illinois",
+  "value":parseFloat(confirmed_state[16]),
+  "color": "#0984e3",
+},
+
+{
+  "latitude":39.000000,
+  "longitude":-75.500000 ,
+  "title": "Delaware",
+  "value":parseFloat(confirmed_state[8]),
+  "color": "#0984e3",
+},
+
+{
+  "latitude":41.599998 ,
+  "longitude": -72.699997,
+  "title": "Connecticut,",
+  "value":parseFloat(confirmed_state[7]),
+  "color": "#0984e3",
+},
+
+{
+  "latitude":34.799999,
+  "longitude":-92.199997 ,
+  "title": "Arkansas",
+  "value":parseFloat(confirmed_state[4]),
+  "color": "#0984e3",
+},
+
+{
+  "latitude":40.273502,
+  "longitude":-86.126976,
+  "title": "Indiana",
+  "value":parseFloat(confirmed_state[17]),
+  "color": "#0984e3",
+},
+
+{
+  "latitude":38.573936,
+  "longitude":-92.603760,
+  "title": "Missouri State",
+  "value":parseFloat(confirmed_state[29]),
+  "color": "#0984e3",
+},
+
+{
+  "latitude":27.994402,
+  "longitude":-81.760254,
+  "title": "Florida",
+  "value":parseFloat(confirmed_state[11]),
+  "color": "#0984e3",
+},
+
+{
+  "latitude":33.247875,
+  "longitude":-83.441162,
+  "title": "Georgia",
+  "value":parseFloat(confirmed_state[12]),
+  "color": "#0984e3",
+},
+
+{
+  "latitude":39.876019,
+  "longitude":-117.224121,
+  "title": "Nevada",
+  "value":parseFloat(confirmed_state[32]),
+  "color": "#0984e3",
+},
+
+{
+   
+},
+
+{
+  "latitude":33.247875,
+  "longitude":-83.441162,
+  "title": "Georgia",
+  "value":parseFloat(confirmed_state[]),
+  "color": "#0984e3",
+},
+
+{
+  "latitude":19.741755,
+  "longitude":-155.844437,
+  "title": "Hawaii",
+  "value":parseFloat(confirmed_state[14]),
+  "color": "#0984e3",
+},
+
+{
+  "latitude":66.160507,
+  "longitude":-153.369141,
+  "title": "Alaska",
+  "value":parseFloat(confirmed_state[1]),
+  "color": "#0984e3",
+},
+
+{
+  "latitude":35.860119,
+  "longitude":-86.660156,
+  "title": "Tennessee",
+  "value":parseFloat(confirmed_state[49]),
+  "color": "#0984e3",
+},
+
+{
+  "latitude":37.926868,
+  "longitude":-78.024902,
+  "title": "Virginia",
+  "value":parseFloat(confirmed_state[54]),
+  "color": "#0984e3",
+},
+
+{
+  "latitude":39.833851,
+  "longitude":-74.871826,
+  "title": "New Jersey",
+  "value":parseFloat(confirmed_state[34]),
+  "color": "#0984e3",
+},
+
+{
+  "latitude":37.839333,
+  "longitude":-84.270020,
+  "title": "Kentucky",
+  "value":parseFloat(confirmed_state[20]),
+  "color": "#0984e3",
+},
+
+{
+  "latitude":47.650589,
+  "longitude":-100.437012,
+  "title": "North Dakota",
+  "value":parseFloat(confirmed_state[38]),
+  "color": "#0984e3",
+},
+{
+  "latitude":46.392410,
+  "longitude":-94.636230,
+  "title": "Minnesota",
+  "value":parseFloat(confirmed_state[27]),
+  "color": "#0984e3",
+},
+
+{
+  "latitude":46.965260,
+  "longitude":-109.533691,
+  "title": "Montana",
+  "value":parseFloat(confirmed_state[30]),
+  "color": "#0984e3",
+},
+
+{
+  "latitude":36.084621,
+  "longitude":-96.921387,
+  "title": "Oklahoma",
+  "value":parseFloat(confirmed_state[41]),
+  "color": "#0984e3",
+},
+
+{
+  "latitude":47.751076,
+  "longitude":-120.740135,
+  "title": "Washington",
+  "value":parseFloat(confirmed_state[55]),
+  "color": "#0984e3",
+},
+
+{
+  "latitude":39.419220,
+  "longitude":-111.950684,
+  "title": "Utah",
+  "value":parseFloat(confirmed_state[51]),
+  "color": "#0984e3",
+},
+
+{
+  "latitude":39.113014,
+  "longitude":-105.358887,
+  "title": "Colorado",
+  "value":parseFloat(confirmed_state[6]),
+  "color": "#0984e3",
+},
+
+{
+  "latitude":40.367474,
+  "longitude":-82.996216,
+  "title": "Ohio",
+  "value":parseFloat(confirmed_state[40]),
+  "color": "#0984e3",
+},
+
+{
+  "latitude":32.318230,
+  "longitude":-86.902298,
+  "title": "Alabama",
+  "value":parseFloat(confirmed_state[0]),
+  "color": "#0984e3",
+},
+
+{
+  "latitude":42.032974,
+  "longitude":-93.581543,
+  "title": "Iowa",
+  "value":parseFloat(confirmed_state[18]),
+  "color": "#0984e3",
+},
+
+{
+  "latitude":34.307144,
+  "longitude":-106.018066,
+  "title": "New Mexico",
+  "value":parseFloat(confirmed_state[35]),
+  "color": "#0984e3",
+},
+
+{
+  "latitude":33.836082,
+  "longitude":-81.163727,
+  "title": "South Carolina",
+  "value":parseFloat(confirmed_state[47]),
+  "color": "#0984e3",
+},
+
+
+{
+  "latitude":41.203323,
+  "longitude":-77.194527,
+  "title": "Pennsylvania",
+  "value":parseFloat(confirmed_state[44]),
+  "color": "#0984e3",
+},
+{
+  "latitude":34.048927,
+  "longitude":-111.093735,
+  "title": "Arizona",
+  "value":parseFloat(confirmed_state[3]),
+  "color": "#0984e3",
+},
+{
+  "latitude":39.045753,
+  "longitude":-76.641273,
+  "title": "Maryland",
+  "value":parseFloat(confirmed_state[24]),
+  "color": "#0984e3",
+},
+
+{
+  "latitude":42.407211,
+  "longitude":-71.382439,
+  "title": "Massachusetts",
+  "value":parseFloat(confirmed_state[25]),
+  "color": "#0984e3",
+},
+{
+  "latitude":36.778259,
+  "longitude":-119.417931,
+  "title": "California",
+  "value":parseFloat(confirmed_state[5]),
+  "color": "#0984e3",
+},
+
+{
+  "latitude":44.068203,
+  "longitude":-114.742043,
+  "title": "Idaho",
+  "value":parseFloat(confirmed_state[15]),
+  "color": "#0984e3",
+},
+
+{
+  "latitude":43.075970,
+  "longitude":-107.290283,
+  "title": "Wyoming",
+  "value":parseFloat(confirmed_state[58]),
+  "color": "#0984e3",
+},
+
+
+{
+  "latitude":46.392410,
+  "longitude":-94.636230,
+  "title": "Minnesota",
+  "value":parseFloat(confirmed_state[27]),
+  "color": "#0984e3",
+},
+
+
+{
+  "latitude":45.367584,
+  "longitude":-68.972168,
+  "title": "Maine",
+  "value":parseFloat(confirmed_state[22]),
+  "color": "#0984e3",
+},
+
+
+{
+  "latitude":44.182205,
+  "longitude":-84.506836,
+  "title": "Michigan",
+  "value":parseFloat(confirmed_state[26]),
+  "color": "#0984e3",
+},
+
+{
+  "latitude":35.782169,
+  "longitude":-80.793457,
+  "title": "North Carolina",
+  "value":parseFloat(confirmed_state[37]),
+  "color": "#0984e3",
+},
+
+
+{
+  "latitude":30.391830,
+  "longitude":-92.329102,
+  "title": "Louisiana",
+  "value":parseFloat(confirmed_state[21]),
+  "color": "#0984e3",
+}
+
+
+];
+

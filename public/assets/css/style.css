@@ -1,0 +1,206 @@
+html, body {
+  height: 100%;
+  font-family: 'Roboto','sans-serif' !important;
+}
+
+.content-body{
+	min-height: 700px;
+}
+
+#chartdiv ,#chartdivbar{
+  width: 100%;
+  height: 550px;
+}
+
+.welcome{
+	min-height: 600px;
+      padding: 0 10px;
+       margin-top: 100px;
+}
+
+.menu-top{
+background-color: #00a8ff !important;
+        padding: 21px 0 21px 0;
+    margin: 0 !important;
+height: 100px;
+}
+
+.menu-top h4{
+	    color: #fff;
+    font-weight: 500;
+}
+
+.sidebar-left{
+	    
+	        text-align: left!important;
+    padding: 34px;
+    border: 1px solid #eaeaea;
+   
+}
+
+.sidebar-right{
+	    border: 1px solid #eaeaea;
+  
+    margin-left: 10px !important;
+    padding: 10px !important;
+}
+
+
+
+.uk-grid {
+    margin-left: 0 !important;
+}
+
+#logo{
+	width: 100%;
+	    text-align: center;
+}
+#logo a{color: #fff;}
+#logo a:hover{
+text-decoration: none;
+}
+
+#select-country{
+	width: 100%;
+	    text-align: center;
+}
+
+
+#select-country .uk-form-width-large {
+    
+    margin: 0 auto;
+}
+
+.select-country-form{
+	width: 99%;
+    background-color: #fff;
+    border-radius: 39px;
+    height: 111px;
+padding-top: 13px;
+}
+
+.select-country-form label{
+	color: #666;
+	font-size: 18px;
+}
+
+.select-country-form button{
+	height: 40px;
+    margin-left: 17px;
+color: #666;
+}
+
+.select-state{
+      
+      margin-top: 10px !important;
+}
+
+.footer{
+      margin-top: 25px; 
+    height: 30px;
+    background-color: #f1eeee;
+    padding: 10px 0 0 0;
+    color: #555;
+    font-size: 13px;
+}
+
+#myInput{
+  height: 63px;
+    background-color: #fff;
+}
+
+.language{
+      position: absolute !important;
+    top: 17px;
+    right: 36px;
+    padding: 0;
+    font-size: 15px;
+}
+
+.language button{
+          border: 1px solid #e8e8e8;
+    color: #fff;
+    border-radius: 24px;
+}
+.language button:hover{
+  border: 1px solid #e8e8e8 !important;
+    color: #fff !important;
+}
+@media only screen and (max-width: 1000px) {
+.sidebar-left{
+      padding: 20px !important;
+      
+
+}
+
+}
+
+@media only screen and (max-width: 600px) {
+
+.sidebar-right {
+    padding: 0 !important;
+}
+#chartdiv,#chartdivbar {
+    width: 100%;
+    height: 350px;
+}
+
+.sidebar-left{
+      padding: 20px !important;
+     
+
+}
+.sidebar-left ul li{
+      font-size: 15px;
+
+}
+
+.sidebar-right {
+    margin-top: 20px !important;
+    margin-left: 0px !important;
+  }
+#country{
+      width: 323px;
+}
+
+.select-state select{
+  width: 323px;
+}
+
+#select-country .uk-form-width-large {
+    width: 100%;
+}
+
+
+.select-country-form {
+  font-size: 13px;
+}
+
+.select-country-form label{
+  font-size: 13px;
+}
+
+#logo {
+    width: 100%;
+    text-align: left;
+    padding-left: 16px;
+  }
+.language button{
+font-size: 13px;
+    padding: 0 10px 0 19px;
+}
+.language{
+  right: 15px;
+}
+
+}
+
+@media only screen and (max-width: 320px) {
+
+#select-country .uk-form-width-large {
+    width: 90%;
+}
+
+
+
+}
