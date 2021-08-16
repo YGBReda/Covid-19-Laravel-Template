@@ -9,9 +9,8 @@ Laravel project for Covid-19 statistics
 <p align="center"><img src="https://redayagoub.com/assets/images/img11.png" width="500"></p>
 <p align="center"><img src="https://redayagoub.com/assets/images/img22.png" width="500"></p>
 
-## Creators
+## Contact
 
-Reda Yagoub
 E-mail : ygb.reda@gmail.com
 
 Website : www.redayagoub.com
