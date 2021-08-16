@@ -13,7 +13,9 @@ Laravel project for Covid-19 statistics
 
 Reda Yagoub
 E-mail : ygb.reda@gmail.com
+
 Website : www.redayagoub.com
+
 Facebook : https://www.facebook.com/yagoub.reda
 
 ## License
