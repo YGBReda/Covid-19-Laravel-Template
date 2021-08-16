@@ -6,8 +6,8 @@ Laravel project for Covid-19 statistics
 ## Screenshots
 
 <p align="center"><img src="https://redayagoub.com/assets/images/Feature Graphic 1.png" width="1000"></p>
-<p align="center"><img src="https://redayagoub.com/assets/images/img11.png" width="1000"></p>
-<p align="center"><img src="https://redayagoub.com/assets/images/img22.png" width="1000"></p>
+<p align="center"><img src="https://redayagoub.com/assets/images/img11.png" width="500"></p>
+<p align="center"><img src="https://redayagoub.com/assets/images/img22.png" width="500"></p>
 
 ## Creators
 
